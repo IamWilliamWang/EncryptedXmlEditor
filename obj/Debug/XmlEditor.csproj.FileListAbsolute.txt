@@ -1,0 +1,8 @@
+F:\Visual Studio 2015\XmlEditor\bin\Debug\XmlEditor.exe.config
+F:\Visual Studio 2015\XmlEditor\bin\Debug\XmlEditor.exe
+F:\Visual Studio 2015\XmlEditor\bin\Debug\XmlEditor.pdb
+F:\Visual Studio 2015\XmlEditor\obj\Debug\XmlEditor.Form1.resources
+F:\Visual Studio 2015\XmlEditor\obj\Debug\XmlEditor.Properties.Resources.resources
+F:\Visual Studio 2015\XmlEditor\obj\Debug\XmlEditor.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\XmlEditor\obj\Debug\XmlEditor.exe
+F:\Visual Studio 2015\XmlEditor\obj\Debug\XmlEditor.pdb
